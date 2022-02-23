@@ -16,7 +16,7 @@ Aplicação simulando operações bancarias para teste no processo seletivo da e
 
   Ao executar o programa, a partir do Main localizado em src/main/java/com/amestrete/meuBanco/MeuBancoApplication.java, a aplicação
 será iniciada e a base de dados H2 criada.
-  Visando a validação das funcionalidades e testes, o banco foi inicilizado com registros de Conta,Transferencia e Cliente.
+  Visando a validação das funcionalidades e testes, o banco foi iniciliazado com registros de Conta,Transferencia e Cliente.
 
 
 <hr>
